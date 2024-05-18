@@ -1,6 +1,6 @@
 # ¡Hola, soy Alejandro Lana! 👋
 
-<img src="/MiFoto.jpeg" alt="MiFoto" width="300" height="400" />
+<img src="/MiFoto.jpeg" alt="MiFoto" width="200" height="300" />
 
 ## 👨‍💻 Sobre mí
 
@@ -48,6 +48,3 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 
 - **Refactorización y Expansión de SMT RogueLike**
 
-### 📈 Lenguajes más usados
-
-![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
