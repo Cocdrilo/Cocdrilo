@@ -49,3 +49,23 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 
 - **Refactorización y Expansión de SMT RogueLike**
 
+### 🎯 Objetivos Personales
+
+- **Terminar el proyecto de reformatear SMT ROGUELIKE para junio de 2024**:
+  - Refactorizar el código existente de SMT ROGUELIKE para mejorar su estructura y rendimiento.
+  - Lograr una reducción del 20% en la complejidad del código y un aumento del 15% en la velocidad de procesamiento.
+  - Establecer hitos de desarrollo semanales y asignar tiempo dedicado al proyecto cada día.
+  - Mejorar la calidad del código base del juego para proporcionar una experiencia de juego más fluida y atractiva.
+  - Establecer una fecha límite clara para la finalización del proyecto (junio de 2024).
+  - Realizar pruebas de rendimiento y calidad del código de forma regular para medir el progreso y realizar ajustes según sea necesario.
+  - Revisar y actualizar el plan de desarrollo según avanza el proyecto para adaptarse a posibles desafíos o cambios en los requisitos.
+
+- **Lanzar ShadowAuction al público para septiembre de 2024**:
+  - Desarrollar completamente la aplicación ShadowAuction, asegurando su funcionalidad completa y sin errores.
+  - Lanzar ShadowAuction en línea con una interfaz de usuario intuitiva y atractiva.
+  - Asegurar la seguridad y confiabilidad de ShadowAuction para proteger los datos de los usuarios y garantizar transacciones seguras.
+  - Implementar un plan de marketing efectivo para promocionar ShadowAuction y atraer a una base de usuarios sólida.
+  - Establecer una fecha de lanzamiento oficial para ShadowAuction (septiembre de 2024) y cumplir con los plazos establecidos.
+  - Realizar pruebas exhaustivas del sistema y obtener retroalimentación de los usuarios para identificar y corregir cualquier problema antes del lanzamiento.
+  - Revisar continuamente el rendimiento de ShadowAuction después del lanzamiento y realizar actualizaciones y mejoras según sea necesario para satisfacer las necesidades y expectativas de los usuarios.
+
