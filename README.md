@@ -9,7 +9,8 @@ Actualmente no estoy en busca activa de empleo puesto que estoy buscando desarro
 Mi mayor especialidad es el código limpio y todas sus variantes como los principios SOLID, aunque se que no siempre es posible siempre intento que el código sea lo mas limpio posible.
 
 ### Croco Coding 🐊
-![Croco Coding](/CrocoCoding.png)
+<img src="/CrocoCoding.png" alt="CrocoCoding" width="400" height="400" />
+
 Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque divertido y enfocado en la resolución de problemas en el mundo del desarrollo de software. A través de Croco Coding, busco compartir mis proyectos y contribuir a la comunidad de desarrollo con ideas innovadoras y soluciones eficientes.
 
 ### 🎨 Habilidades
@@ -42,7 +43,7 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 
 - **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-lana-mediavilla-8b1270305/)
 
-- **Email**: [Tu Correo Electrónico](alejandrolana1@gmail.com)
+- **Email**: [Mi Correo Electrónico](alejandrolana1@gmail.com)
 
 ### 🛠️ Proyecto en Curso
 
