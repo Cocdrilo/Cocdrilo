@@ -41,7 +41,7 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 ### 💬 ¡Hablemos!
 
 - **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-lana-mediavilla-8b1270305/)
-- 
+
 - **Email**: [Tu Correo Electrónico](alejandrolana1@gmail.com)
 
 ### 🛠️ Proyecto en Curso
