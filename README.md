@@ -37,7 +37,7 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 
 - C##
 - Machine Learning
-- Godot Engine
+- Redis Cache DB
 
 ### 💬 ¡Hablemos!
 
@@ -47,7 +47,7 @@ Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque
 
 ### 🛠️ Proyecto en Curso
 
-- **Refactorización y Expansión de SMT RogueLike**
+- **Expansion de ShadowAuction Usando Redis para gestion de estado de subastas en cache**
 
 ### 🎯 Objetivos Personales
 
