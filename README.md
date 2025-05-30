@@ -1,6 +1,6 @@
 # ¡Hola, soy Alejandro Lana! 👋
 
-<img src="/MiFoto.jpeg" alt="MiFoto" width="240" height="300" />
+<img src="/Profile.jpg" alt="MiFoto" width="240" height="300" />
 
 ## 👨‍💻 Sobre mí
 
