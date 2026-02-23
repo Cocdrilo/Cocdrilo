@@ -1,71 +1,71 @@
 # ¡Hola, soy Alejandro Lana! 👋
 
-<img src="/Perfil.jpg" alt="MiFoto" width="320" height="320" />
+<img src="/Perfil.jpg" alt="Alejandro Lana" width="250" align="right" style="border-radius: 10px;" />
 
-## 👨‍💻 Sobre mí
+### 🧠 Ingeniero Informático | Especialista en IA y Datos
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con un amor especial por el desarrollo en Java de todas las ideas que me parecen interesantes y que pueden llevarme un poco más allá en el desarrollo software. Siempre estoy explorando nuevas tecnologías y buscando formas creativas de resolver problemas.
-Actualmente no estoy en busca activa de empleo puesto que estoy buscando desarrollarme personalmente como programador antes de lanzarme al mundo laboral pero si aun leyendo esto quereis contactarme abajo están las plataformas para ello.
-Mi mayor especialidad es el código limpio y todas sus variantes como los principios SOLID, aunque se que no siempre es posible siempre intento que el código sea lo mas limpio posible.
+[cite_start]Soy un desarrollador e investigador especializado en Inteligencia Artificial y análisis de datos[cite: 6]. [cite_start]Me apasiona resolver problemas complejos, optimizar arquitecturas y transformar grandes volúmenes de datos en soluciones de alto impacto, especialmente en el ámbito clínico y genómico[cite: 6, 26, 30].
 
-### Croco Coding 🐊
-<img src="/CrocoCoding.png" alt="CrocoCoding" width="400" height="400" />
+[cite_start]Actualmente, compagino mis estudios de especialización en IA [cite: 23] con la investigación aplicada, siempre buscando escribir código limpio, eficiente y escalable (principios SOLID).
 
-Croco Coding es el nombre de mi marca personal de código. Representa mi enfoque divertido y enfocado en la resolución de problemas en el mundo del desarrollo de software. A través de Croco Coding, busco compartir mis proyectos y contribuir a la comunidad de desarrollo con ideas innovadoras y soluciones eficientes.
+---
 
-### 🎨 Habilidades
+### 💼 Experiencia Destacada
 
-- **Lenguajes de Programación**: [Java], [C++], [Ruby], [Sql]
-- **Frameworks y Librerías**: [JavaFX], [JavaSwing]
-- **Herramientas y Plataformas**: [DigitalOcean], [Github Pages]
+- 🔬 **Investigador en Machine Learning y Genómica** | [cite_start]*Hospital 12 de Octubre* (2025 - 2026) [cite: 25, 26]
+  [cite_start]Desarrollo de modelos híbridos (PyTorch, XGBoost) para predecir la inmunogenicidad en terapias personalizadas a partir de Big Data genómico.
+- 📊 **Data Analyst** | [cite_start]*Grupo ARIES, Universidad Nebrija* (2024 - 2025) [cite: 29, 30]
+  [cite_start]Extracción, limpieza y modelado estadístico de datos clínicos de urgencias para optimizar la toma de decisiones médicas[cite: 31, 32].
+- ⚙️ **Técnico de Laboratorio de Redes y Sistemas** | [cite_start]*Universidad Nebrija* (2025) [cite: 33, 34]
+  [cite_start]Administración de infraestructuras Unix/Linux y soporte técnico de entornos[cite: 35, 36].
 
-### 🚀 Proyectos Destacados
+---
 
-#### 🧠 [SMT ROGUELIKE]
-"SMT ROGUELIKE" es un emocionante juego de tipo roguelike en 2D, inspirado en la serie Shin Megami Tensei. En este juego, los jugadores exploran mazmorras generadas proceduralmente, combaten demonios y recolectan ítems para mejorar sus habilidades. Lo interesante de este proyecto es su mecánica de juego dinámica y su enfoque en la estrategia y la gestión de recursos, ofreciendo una experiencia de juego desafiante y envolvente.  
-**Tecnologías usadas**: Java, JavaSwing  
-**Colaboradores**: Daniel Berzal Plaza    
-[Repositorio del proyecto](https://github.com/Cocdrilo/Persona-2D-RogueLike)
+### 🐊 Croco Coding
 
-#### 🌐 [ShadowAuction]
-"ShadowAuction" es una aplicación de casas de subasta en línea, diseñada para facilitar la compra y venta de artículos a través de un sistema de subastas en tiempo real. La aplicación permite a los usuarios registrarse, listar artículos para subasta, y pujar en tiempo real utilizando WebSockets para garantizar una comunicación rápida y eficiente entre los clientes y el servidor. Este proyecto destaca por su uso de JavaFX para la interfaz de usuario, MySQL para la gestión de bases de datos y WebSockets para la comunicación en tiempo real.  
-**Tecnologías usadas**: JavaFX, MySQL, WebSockets  
-**Colaboradores**: Daniel Berzal Plaza    
-[Repositorio del proyecto](https://github.com/Cocdrilo/ShadowAuction)
+<img src="/CrocoCoding.png" alt="CrocoCoding" width="150" align="left" style="margin-right: 20px;" />
 
-### 🌱 Actualmente Aprendiendo
+**Croco Coding** es mi marca personal. Representa mi filosofía como desarrollador: un enfoque tenaz para la resolución de problemas, devorando bugs y construyendo soluciones robustas. A través de este alias, unifico mis repositorios y comparto proyectos que exploran desde arquitecturas de bajo nivel hasta modelos de Machine Learning.
 
-- C##
-- Machine Learning
-- Redis Cache DB
+<br clear="left"/>
 
-### 💬 ¡Hablemos!
+---
 
-- **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-lana-mediavilla-8b1270305/)
+### 🛠️ Stack Tecnológico
 
-- **Email**: [Mi Correo Electrónico](alejandrolana1@gmail.com)
+- [cite_start]**Data Science & AI:** Python, PyTorch, XGBoost, Scikit-Learn, Pandas, Seaborn, SHAP, Optuna[cite: 28, 33].
+- [cite_start]**Backend & Core:** Java, C, Bash, SQL, WebSockets[cite: 12, 13, 16, 28].
+- [cite_start]**Herramientas & Sistemas:** Linux/Unix, Git, GitHub, Multiprocessing Lib[cite: 28, 36].
 
-### 🛠️ Proyecto en Curso
+---
 
-- **Expansion de ShadowAuction Usando Redis para gestion de estado de subastas en cache**
+### 🚀 Proyectos Principales
 
-### 🎯 Objetivos Personales
+#### 🧬 [Paquete de Análisis de Big Data Genómico](Enlace-a-tu-repo-aqui)
+[cite_start]Arquitectura de alto rendimiento para el procesamiento de archivos masivos[cite: 10, 12].
+- [cite_start]**Logro:** Reducción del 77.5% en el consumo de RAM frente a estándares de la industria.
+- [cite_start]**Técnicas:** Lectura por bloques, procesamiento paralelo, librerías compiladas en C para eliminar cuellos de botella[cite: 11, 12].
 
-- **Terminar el proyecto de reformatear SMT ROGUELIKE para junio de 2024**:
-  - Refactorizar el código existente de SMT ROGUELIKE para mejorar su estructura y rendimiento.
-  - Lograr una reducción del 20% en la complejidad del código y un aumento del 15% en la velocidad de procesamiento.
-  - Establecer hitos de desarrollo semanales y asignar tiempo dedicado al proyecto cada día.
-  - Mejorar la calidad del código base del juego para proporcionar una experiencia de juego más fluida y atractiva.
-  - Establecer una fecha límite clara para la finalización del proyecto (junio de 2024).
-  - Realizar pruebas de rendimiento y calidad del código de forma regular para medir el progreso y realizar ajustes según sea necesario.
-  - Revisar y actualizar el plan de desarrollo según avanza el proyecto para adaptarse a posibles desafíos o cambios en los requisitos.
+#### 🌐 [ShadowAuction](https://github.com/Cocdrilo/ShadowAuction)
+[cite_start]Aplicación de casas de subasta con soporte para múltiples usuarios concurrentes[cite: 15, 16].
+- [cite_start]**Técnicas:** Comunicación en tiempo real con WebSockets, interfaz en JavaFX, chat integrado y base de datos relacional[cite: 16].
 
-- **Lanzar ShadowAuction al público para septiembre de 2024**:
-  - Desarrollar completamente la aplicación ShadowAuction, asegurando su funcionalidad completa y sin errores.
-  - Lanzar ShadowAuction en línea con una interfaz de usuario intuitiva y atractiva.
-  - Asegurar la seguridad y confiabilidad de ShadowAuction para proteger los datos de los usuarios y garantizar transacciones seguras.
-  - Implementar un plan de marketing efectivo para promocionar ShadowAuction y atraer a una base de usuarios sólida.
-  - Establecer una fecha de lanzamiento oficial para ShadowAuction (septiembre de 2024) y cumplir con los plazos establecidos.
-  - Realizar pruebas exhaustivas del sistema y obtener retroalimentación de los usuarios para identificar y corregir cualquier problema antes del lanzamiento.
-  - Revisar continuamente el rendimiento de ShadowAuction después del lanzamiento y realizar actualizaciones y mejoras según sea necesario para satisfacer las necesidades y expectativas de los usuarios.
+#### 🕹️ [SMT ROGUELIKE](https://github.com/Cocdrilo/Persona-2D-RogueLike)
+[cite_start]Juego RPG 2D con generación procedural y sistemas de combate complejos[cite: 13, 14].
+- [cite_start]**Técnicas:** Lógica de combate avanzada, sistema de inventario y guardado desarrollados puramente en Java (Swing)[cite: 14]. *(Colaboración con Daniel Berzal Plaza)*.
 
+---
+
+### 🌱 En qué estoy trabajando ahora
+
+- Profundizando en arquitecturas MLOps para el despliegue de modelos.
+- Ampliando el ecosistema de *ShadowAuction* migrando la gestión de estado de las subastas a **Redis Cache DB**.
+- Refactorizando el código base de mis proyectos antiguos (como *SMT Roguelike*) para mejorar su eficiencia temporal y espacial.
+
+---
+
+### 💬 ¡Conectemos!
+
+[cite_start]Busco oportunidades donde pueda aportar mi capacidad analítica y rigor técnico[cite: 6].
+- [cite_start]📧 **Email**: alejandrolanal@gmail.com [cite: 2]
+- [cite_start]💼 **LinkedIn**: [Alejandro Lana Mediavilla](https://www.linkedin.com/in/alejandro-lana) [cite: 4]
