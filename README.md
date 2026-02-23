@@ -4,7 +4,7 @@
 
 ### 🧠 Ingeniero Informático | Especialista en IA y Datos
 
-Soy un desarrollador e investigador especializado en Inteligencia Artificial y análisis de datos. Me apasiona resolver problemas complejos, optimizar arquitecturas y transformar grandes volúmenes de datos en soluciones de alto impacto, especialmente en el ámbito clínico y genómico.
+Soy un desarrollador e investigador especializado en Inteligencia Artificial y análisis de datos. Me apasiona resolver problemas complejos, optimizar arquitecturas y transformar grandes volúmenes de datos en soluciones de alto impacto en todos los ámbitos.
 
 Actualmente, compagino mis estudios de especialización en IA con la investigación aplicada, siempre buscando escribir código limpio, eficiente y escalable (principios SOLID).
 
