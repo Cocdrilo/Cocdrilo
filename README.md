@@ -12,7 +12,7 @@ Actualmente, compagino mis estudios de especialización en IA con la investigaci
 
 ### 💼 Experiencia Destacada
 
-- 🔬 **Investigador en Machine Learning y Genómica** | *Hospital 12 de Octubre* (2025 - 2026)
+- 🔬 **Machine Learning Engineer** | *Hospital 12 de Octubre* (2025 - 2026)
   Desarrollo de modelos híbridos (PyTorch, XGBoost) para predecir la inmunogenicidad en terapias personalizadas a partir de Big Data genómico.
 - 📊 **Data Analyst** | *Grupo ARIES, Universidad Nebrija* (2024 - 2025)
   Extracción, limpieza y modelado estadístico de datos clínicos de urgencias para optimizar la toma de decisiones médicas.
